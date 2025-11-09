@@ -1,5 +1,5 @@
 # Automatic-16s-short-reads-data-analysis-pipeline-using-QIIME-2
-
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)  
 
 This repository contains a modular set of bash scripts for a complete 16S rRNA amplicon sequencing analysis workflow. The pipeline is built using QIIME 2 (qiime2-2020.2) and is designed to be reproducible, modular, and easy to follow.  
 
